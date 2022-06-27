@@ -2,6 +2,8 @@
 
 An anatomy focused Wordle clone made using Flutter
 
+Currently hosted here: https://anthonygillespie.github.io/medleApp/#/
+
 Figure out what the hidden anatomy term is by guessing combinations of letters in a heavily Wordle inspired game.
 
 A couple things to remember:
